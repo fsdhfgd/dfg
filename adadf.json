@@ -38,12 +38,21 @@
             "name": "线路9"
         },
         {
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "线路10"
+        },
+        {
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "线路11"
+        },
+        {
             "url": "http://120.46.39.251/tvbox/duo.json",
-            "name": "线路10"             
+            "name": "线路12"             
         }
     ]
 
 }
+
 
 
 
