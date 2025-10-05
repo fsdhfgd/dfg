@@ -46,12 +46,13 @@
             "name": "线路11"
         },
         {
-            "url": "http://120.46.39.251/tvbox/duo.json",
+            "url": "https://raw.githubusercontent.com/YuanHsing/freed/master/TVBox/meow.json",
             "name": "线路12"             
         }
     ]
 
 }
+
 
 
 
