@@ -46,8 +46,12 @@
             "name": "线路11"
         },
         {
+            "url": "https://sfsf.jiangqti.dpdns.org/优质.json",
+            "name": "线路12"
+        },
+        {
             "url": "https://gitee.com/iy-cpu/iy/raw/master/%E5%A4%A9%E7%A5%9EIY.json",
-            "name": "线路12"             
+            "name": "线路13"             
         }
     ]
 
